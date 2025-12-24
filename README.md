@@ -22,6 +22,9 @@ This project focuses on analyzing employee data to identify key insights related
 - Younger age groups show higher turnover
 
 ## 📷 Dashboard Preview
+<img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/a2994c02-9929-406d-9ac0-99ec64ab21a6" />
+<img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/70c1f8ee-9826-496b-bbfb-bed12715557f" />
+
 <img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/a4c0162f-d557-4e1c-8277-831ec6c6a183" />
 
 
