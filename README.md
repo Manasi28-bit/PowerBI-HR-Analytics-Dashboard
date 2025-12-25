@@ -39,4 +39,4 @@ This project focuses on analyzing employee data to identify key insights related
 3. Refresh data if required
 
 ## 👩‍💻 Author
-Mansi Shivnekar
+Manasi Shivnekar
