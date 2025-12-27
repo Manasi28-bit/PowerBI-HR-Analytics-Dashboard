@@ -22,11 +22,12 @@ This project focuses on analyzing employee data to identify key insights related
 - Younger age groups show higher turnover
 
 ## 📷 Dashboard Preview
-<img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/a2994c02-9929-406d-9ac0-99ec64ab21a6" />
-<img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/70c1f8ee-9826-496b-bbfb-bed12715557f" />
-
-<img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/a4c0162f-d557-4e1c-8277-831ec6c6a183" />
-
+<img width="981" height="557" alt="Dashboard1" src="https://github.com/user-attachments/assets/006c233b-fda2-44dd-a412-a7e14060e110" />
+<img width="989" height="556" alt="Dashboard2" src="https://github.com/user-attachments/assets/b41e411e-dd33-4153-8625-5d8c575f8f38" />
+<img width="995" height="544" alt="Dashboard3_1" src="https://github.com/user-attachments/assets/93c1e373-f4fd-4ecf-b38e-25174da90de6" />
+<img width="990" height="536" alt="Dashboard3_2" src="https://github.com/user-attachments/assets/10e5577e-b0c0-4c74-b81e-dda975da65cb" />
+<img width="990" height="556" alt="Dashboard4_1" src="https://github.com/user-attachments/assets/275eafbb-90ca-4e22-9f8b-6c0ef8112e10" />
+<img width="996" height="554" alt="Dashboard4_2" src="https://github.com/user-attachments/assets/26a23ac2-eb27-4ae3-9cb4-f597d7a8b5c0" />
 
 ## 📁 Files in This Repository
 - **HR_Analytics.pbix** – Power BI dashboard file  
